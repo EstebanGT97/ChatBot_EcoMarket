@@ -1,2 +1,2 @@
 # ChatBot_EcoMarket
-chatbot by IT team for UEA 
+chatbot by Business analytics team for UEA 
