@@ -1,0 +1,17 @@
+fecha_hora,pregunta_cliente,intencion_detectada,confianza,respuesta_bot;
+"2026-04-29T15:23:49,deseo comprar 15 manzanas,Disponibilidad de productos,1.0,""Sí, actualmente figuran 50 unidades de manzanas en el inventario online. La disponibilidad puede variar al finalizar la compra.""";
+"2026-04-29T15:24:07,puedo realizar pagos con tarjeta/,Métodos de pago y compra,1.0,""Aceptamos tarjeta de crédito, tarjeta de débito y los métodos disponibles durante el checkout online.""";
+"2026-04-29T15:24:32,""perfecto, que debo de hacer para realizar la compra"",Estado del pedido,0.8025,""Claro, puedo revisar tu pedido. Indícame la referencia, por ejemplo PED-123.""";
+"2026-04-29T15:24:52,""no he comprado nada, deseo realizar una compra"",Hablar con soporte humano,0.3138,""Quiero evitar darte una respuesta incorrecta. Te puedo derivar con atención al cliente";" antes, cuéntame brevemente qué ocurrió."""
+"2026-04-29T17:21:47,deseo comprar manzanas,Disponibilidad de productos,1.0,""Sí, actualmente figuran 50 unidades de manzanas en el inventario online. La disponibilidad puede variar al finalizar la compra.""";
+"2026-04-29T17:22:17,necesito comprar productos lacteos,Hablar con soporte humano,0.4197,""Quiero evitar darte una respuesta incorrecta. Te puedo derivar con atención al cliente";" antes, cuéntame brevemente qué ocurrió."""
+"2026-04-29T17:22:42,tienes leche,Disponibilidad de productos,0.6136,""Puedo consultar disponibilidad online, pero necesito el producto exacto. Por ejemplo: leche vegetal, tofu o pan sin gluten.""";
+"2026-04-29T17:31:25,tienes productos lacteos?,Hablar con soporte humano,0.2911,""Quiero evitar darte una respuesta incorrecta. Te puedo derivar con atención al cliente";" antes, cuéntame brevemente qué ocurrió."""
+"2026-04-29T17:31:39,deseo comprar producto lacteo,Disponibilidad de productos,1.0,""Sí, actualmente figuran 15 unidades de leche vegetal en el inventario online. La disponibilidad puede variar al finalizar la compra.""";
+"2026-04-29T17:32:03,tienes huevos?,Hablar con soporte humano,0.3532,""Quiero evitar darte una respuesta incorrecta. Te puedo derivar con atención al cliente";" antes, cuéntame brevemente qué ocurrió."""
+"2026-04-29T17:32:19,tienes disponible huevos?,Disponibilidad de productos,1.0,""Sí, actualmente figuran 24 unidades de huevos en el inventario online. La disponibilidad puede variar al finalizar la compra.""";
+"2026-04-29T17:53:29,tienes disponibilidad de 100 huevos?,Disponibilidad de productos,1.0,""Sí, actualmente figuran 24 unidades de huevos en el inventario online. La disponibilidad puede variar al finalizar la compra.""";
+"2026-04-29T17:53:46,tienes disponible 100 huevos?,Disponibilidad de productos,1.0,""Sí, actualmente figuran 24 unidades de huevos en el inventario online. La disponibilidad puede variar al finalizar la compra.""";
+2026-04-30T19:02:49,deseo devolver unas manzanas,Devoluciones y cambios,1.0,"Las devoluciones pueden solicitarse hasta 30 días después de la compra, presentando ticket o número de pedido. En productos frescos, perecederos o de higiene pueden aplicar restricciones. Si quieres, puedo ayudarte a preparar la solicitud."
+2026-04-30T19:03:11,deseo saber informacion sobre mi pedido PED-123,Estado del pedido,1.0,Tu pedido PED-123 se encuentra en estado: En tránsito. Entrega estimada: mañana por la mañana.
+2026-04-30T19:03:29,deseo comprar manzanas,Disponibilidad de productos,1.0,"Sí, actualmente figuran 50 unidades de manzanas en el inventario online. La disponibilidad puede variar al finalizar la compra."
