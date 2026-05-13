@@ -1,0 +1,5 @@
+chatbot:
+
+SQL:
+
+- que el producto id sea la Primera letra de la categoría del producto y que el numero sea secuencial es decir que si pondré un nuevo producto carnico como Alas de pollo y pertenece a la categoría de Carnes y ya contamos con 5 items el código de este producto que esta ingresando sea C006
