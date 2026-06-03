@@ -1,11 +1,11 @@
 # Promociones y cupones
 
-Las promociones y cupones dependen de sus condiciones particulares. Algunas ofertas son exclusivas de tienda fisica y otras del canal online.
+EcoMarket aplica promociones automáticas simples para el MVP.
 
-Un cupon puede exigir importe minimo, fecha de validez, categoria participante o metodo de pago concreto.
+Si el cliente compra 3 o más unidades del mismo producto, puede aplicarse un 5% de descuento por volumen sobre esa línea.
 
-Salvo indicacion expresa, no se acumulan varios cupones sobre el mismo pedido.
+Si el total promocional del carrito supera 50 euros, el pedido obtiene envío gratis.
 
-Si un cupon no funciona, debe revisarse: fecha de validez, importe minimo, productos excluidos y canal de compra.
+Si el total promocional del carrito alcanza 75 euros o más, se aplica un 10% de descuento adicional sobre el total del carrito.
 
-Las promociones con stock limitado se aplican hasta agotar existencias.
+Para simplificar el MVP, no se gestionan cupones personalizados, reglas por cliente ni acumulación compleja de promociones. El chatbot aplica automáticamente las condiciones vigentes y muestra el beneficio en el resumen del pedido.
